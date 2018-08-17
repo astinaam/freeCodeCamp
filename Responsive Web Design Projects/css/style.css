@@ -1,0 +1,13 @@
+html, body{
+	text-align:center;
+}
+
+/* user story #8 starts */
+#image{
+	max-width:100%;
+	display:block;
+	height:auto;
+	width:auto;
+	margin: 0 auto;
+}
+/* user story #8 ends */
