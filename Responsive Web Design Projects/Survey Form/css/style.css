@@ -1,0 +1,43 @@
+html,
+body {
+	text-align: center;
+	background-color: #d3d3d3;
+}
+
+.container {
+	background-color: white;
+	padding: 10px;
+	margin: 50px;
+}
+
+#survey-form {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.form-element {
+	padding: 10px;
+}
+
+.form-element label {
+	display: inline-block;
+	width: 30%;
+	padding: 5px;
+	text-align: right;
+}
+
+.form-element input, .form-element select{
+	width: 50%;
+	text-align: left;
+	display: inline-block;
+	padding: 6px;
+}
+
+label{
+	vertical-align:middle;
+}
+
+textarea{
+	padding:6px;
+}
+
