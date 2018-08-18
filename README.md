@@ -3,7 +3,7 @@ https://learn.freecodecamp.org
 
 ## Curriculam
 >### Responsive Web Design Projects
->#### [Tribute Page] (https://github.com/astinaam/freeCodeCamp/tree/master/Responsive%20Web%20Design%20Projects/Tribute%20Page)
+>>[Tribute Page](https://github.com/astinaam/freeCodeCamp/tree/master/Responsive%20Web%20Design%20Projects/Tribute%20Page)
 >### Javascript Algorithms And Data Structures Projects
 >### Front End Libraries Projects
 >### Data Visulaization Projects
