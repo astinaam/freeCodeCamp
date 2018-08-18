@@ -1,0 +1,19 @@
+html, body{
+	text-align:center;
+	background-color:black;
+	color:white;
+}
+
+.codes{
+	width:40%;
+	margin:0 auto;
+	text-align:left;
+	background-color:darkgray;
+}
+
+@media (min-width:768px){
+	#navbar{
+		position:absolute;
+		left:0;
+	}
+}

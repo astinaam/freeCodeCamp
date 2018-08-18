@@ -1,0 +1,46 @@
+html, body{
+	text-align:center;
+}
+
+#header-img{
+	border-radius:50%;
+	border:5px solid #006400;
+	margin-top:50px;
+}
+
+#nav-bar{
+	display:flex;
+	flex-direction: row;
+	left:40%;
+	top:0;
+	position:fixed;
+	padding:15px;
+	
+}
+#nav-bar a{
+	text-decoration:none;
+	padding:3px;
+}
+#form{
+	padding:15px;
+}
+input{
+	padding:6px;
+}
+
+video{
+	max-width:100%;
+	width:auto;
+	height:auto;
+}
+
+@media (max-width:320px)
+{
+	#header-img{
+		width:100px;
+	}
+}
+
+li	{
+	list-style:none;
+}
